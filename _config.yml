@@ -1,1 +1,9 @@
+title: Jean-Marc MONTOUT
+author: Jean-Marc MONTOUT
+email: montout.jeanmarc@gmail.com
+logo: assets/jean-marc-2.jpg
+description: Développeur Web
+  
+show_excerpts: false # set to false to remove excerpts on the homepage
+
 theme: jekyll-theme-minimal
