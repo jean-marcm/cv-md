@@ -22,7 +22,7 @@ J'utilise aussi
 - AppInventor - pour prototyper mes applications mobiles
 - Google Apps Script
 
-## Mes projets de formation
+### Mes projets de formation
 Parce que je suis un passionné et j'aime apprendre !
 
 - Dévelopement Android (avec Udacity)
