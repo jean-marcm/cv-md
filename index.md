@@ -2,7 +2,7 @@
 #### Je suis Jean-Marc MONTOUT intégrateur, développeur web
 
 ### Formation
-- **Java** : formation de programmateur (au CNAM).
+- **Java** : formation de programmeur (au CNAM).
 - **Base de données** : conception, mise en oeuvre et manipulation des bases de données relationnelles (au CNAM).
 - **Certificat professionnel webmestre** : conception de sites et administration de serveurs WEB – Conservatoire National des Arts et Métiers (CNAM) Reims et Marne-La-Vallée.
 
